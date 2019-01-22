@@ -1,2 +1,8 @@
 # fish-docker-completion
-docker completion for fish-shell
+docker, docker-compose completions for fish-shell
+
+## install
+
+```shell
+$ fisher add rockun1/fish-docker-completion
+```
